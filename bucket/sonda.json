@@ -1,25 +1,25 @@
 {
-    "version": "0.8.0",
+    "version": "0.8.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/NicolasCondezaR/sonda/releases/download/v0.8.0/sonda_0.8.0_windows_amd64.zip",
+            "url": "https://github.com/NicolasCondezaR/sonda/releases/download/v0.8.1/sonda_0.8.1_windows_amd64.zip",
             "bin": [
                 "sonda-tui.exe",
                 "echo.exe",
                 "grpcdemo.exe",
                 "sonda.exe"
             ],
-            "hash": "a62a595fbb65a3206ebd111b424822ce714330d53538aad52ae28088ccdcaa2e"
+            "hash": "78e611f4cf96a75868feff02a111ee4fbe7755fae1283a7fefabd566de9cf989"
         },
         "arm64": {
-            "url": "https://github.com/NicolasCondezaR/sonda/releases/download/v0.8.0/sonda_0.8.0_windows_arm64.zip",
+            "url": "https://github.com/NicolasCondezaR/sonda/releases/download/v0.8.1/sonda_0.8.1_windows_arm64.zip",
             "bin": [
                 "sonda-tui.exe",
                 "echo.exe",
                 "grpcdemo.exe",
                 "sonda.exe"
             ],
-            "hash": "9745285c4bcc477670f5a02d4a8f619b2fba60a479fc86b3a0df54a5fe6519ce"
+            "hash": "76d8231affb77168c61bd843edfcfa63a4a52da772a751765f142121bd9caa6e"
         }
     },
     "homepage": "https://github.com/NicolasCondezaR/sonda",
